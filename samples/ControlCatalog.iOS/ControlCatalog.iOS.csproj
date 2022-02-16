@@ -1,8 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0-ios</TargetFramework>
-    <SupportedOSPlatformVersion>10.0</SupportedOSPlatformVersion>
+    <TargetFramework>net6.0-ios10.0</TargetFramework>
     <!-- temporal workaround for our GL interface backend -->
     <UseInterpreter>True</UseInterpreter>
   </PropertyGroup>
