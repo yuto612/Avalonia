@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Xamarin.Legacy.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net6.0-ios10.0;xamarin.ios10</TargetFrameworks>
+    <TargetFrameworks>net6.0-ios;xamarin.ios10</TargetFrameworks>
+    <SupportedOSPlatformVersion>10</SupportedOSPlatformVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <MSBuildEnableWorkloadResolver>true</MSBuildEnableWorkloadResolver>
   </PropertyGroup>
